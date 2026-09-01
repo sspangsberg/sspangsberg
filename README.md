@@ -26,6 +26,6 @@ Furthermore I have teached courses in software construction and quality assuranc
     
 <p><strong>Github stats:</strong></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sspangsberg&count_private=true&theme=radical)
+![Sørens's GitHub stats](https://github-stats-extended.vercel.app/api?username=sspangsberg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sspangsberg&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sspangsberg&langs_count=4)
