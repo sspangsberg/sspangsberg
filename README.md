@@ -26,6 +26,6 @@ Furthermore I have teached courses in software construction and quality assuranc
     
 <p><strong>Github stats:</strong></p>
 
-![Sørens's GitHub stats](https://github-stats-extended.vercel.app/api?username=sspangsberg)
+![Sørens's GitHub stats](https://github-stats-extended.vercel.app/api?username=sspangsberg&theme=dark_github)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sspangsberg&langs_count=10)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sspangsberg&langs_count=6&theme=dark_github)
