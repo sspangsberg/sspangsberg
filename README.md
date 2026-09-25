@@ -28,4 +28,4 @@ Furthermore I have teached courses in software construction and quality assuranc
 
 ![Sørens's GitHub stats](https://github-stats-extended.vercel.app/api?username=sspangsberg)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sspangsberg&langs_count=6)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sspangsberg&langs_count=10)
